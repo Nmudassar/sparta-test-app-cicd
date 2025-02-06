@@ -141,7 +141,7 @@ ssh-keygen -t rsa -b 4096 -C "nadia.syed77@gmail.com"
    - Enable **GitHub hook trigger for GITScm polling**.
 2. In **GitHub → Repo → Settings → Webhooks**:
    - Add Webhook:
-     - **Payload URL**: `http://52.31.15.176:8080/github-webhook/`
+     - **Payload URL**: `http://34.254.6.118/:8080/github-webhook/`
      - **Disable SSL verification** → Save.
 
 ### **Test Webhook**:
