@@ -15,7 +15,7 @@ This app is intended for use with the Sparta Global Devops Stream as a sample ap
 - `192.168.10.100:3000`
   `localhost:3000`
 
-Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response.
+# Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response.
 
 ### Blog
 
