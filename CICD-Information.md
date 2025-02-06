@@ -7,7 +7,7 @@
 
 ## **Jenkins Server Access**
 
-- URL: `http://52.31.15.176:8080/`
+- URL: `http://34.254.6.118/:8080/`
 - Username: **devopslondon**
 - Password: **Confidential**
 
