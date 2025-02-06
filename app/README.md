@@ -4,7 +4,7 @@
 
 # Description
 
-This app is intended for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch.
+## This app is intended for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch.
 
 # The app is a Node JS app with three pages.
 
@@ -13,7 +13,7 @@ This app is intended for use with the Sparta Global Devops Stream as a sample ap
 - `192.168.10.100:3000`
   `localhost:3000`
 
-Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response.
+# Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response.
 
 ### Blog
 
